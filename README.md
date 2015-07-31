@@ -1,8 +1,4 @@
 # MERS
-Analyses of MERS-CoV outbreaks
-
-
-# MERS
 
 This repository contains the `R` code files used for the analyses of MERS-CoV transmission clusters from the following publication:
 
